@@ -35,4 +35,4 @@ Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## How to deploy
-Copy the `out` folder to the remote server with the Nginx hosting and routing.
+Copy the `build` folder to the remote server with the Nginx hosting and routing.
